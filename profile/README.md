@@ -1,6 +1,6 @@
 ![örnek banner](https://github.com/TRA-Tech/.github/blob/main/readme.png)
 
-## JOIN US
+## Join Us
 
 **"TRA Technology Information** company was established on January 1st, 2017 within the Sakarya University Technology Park. It is one of the creative firms for software projects in various fields, including BOSS, Makas, and Dilim." 
 
