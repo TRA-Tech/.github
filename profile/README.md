@@ -41,7 +41,8 @@
 <img src="https://www.adobe.com/content/dam/offers-miniplans/icons/creativecloud.svg" title="Adobe Creative Studio" alt="Adobe Creative Studio" width="30" height="30"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" title="Figma" alt="Figma" width="30" height="30"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sketch_Logo.svg/2265px-Sketch_Logo.svg.png" title="Sketch" alt="Sketch" width="30" height="30"/>&nbsp;
-
+<img src="https://www.gezginler.net/indir/resim-grafik/camtasia-studio-1482750121.png" title="Camtasia" alt="Camtasia" width="30" height="30"/>&nbsp;
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ed/08/14/ed0814e7-1a39-73eb-9a15-66b62a1d7eeb/AppIcon-85-220-0-4-2x.png/1200x630bb.png" title="Final Cut Pro" alt="Final Cut Pro" width="30" height="30"/>&nbsp;
 
 
 
