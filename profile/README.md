@@ -38,9 +38,9 @@
 <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/1200px-ESLint_logo.svg.png" title="Eslint" alt="Eslint" width="40" height="40"/>&nbsp;
 <br /> 
-<img src="https://www.adobe.com/content/dam/offers-miniplans/icons/creativecloud.svg" title="Adobe Creative Studio" alt="Adobe Creative Studio" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sketch_Logo.svg/2265px-Sketch_Logo.svg.png" title="Sketch" alt="Sketch" width="40" height="40"/>&nbsp;
+<img src="https://www.adobe.com/content/dam/offers-miniplans/icons/creativecloud.svg" title="Adobe Creative Studio" alt="Adobe Creative Studio" width="30" height="30"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" title="Figma" alt="Figma" width="30" height="30"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sketch_Logo.svg/2265px-Sketch_Logo.svg.png" title="Sketch" alt="Sketch" width="30" height="30"/>&nbsp;
 
 
 
