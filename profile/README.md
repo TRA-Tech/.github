@@ -61,4 +61,5 @@
 </p>
 
 <a href="https://www.facebook.com/trabilisim" target="blank"><img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" height="30" width="30" /></a>
+<a href="https://medium.com/@Trabilisim" target="blank"><img align="left" src="https://miro.medium.com/v2/resize:fit:1400/1*psYl0y9DUzZWtHzFJLIvTw.png" height="30" width="30" /></a>
 </p>
