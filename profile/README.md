@@ -25,14 +25,14 @@
 <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" alt="Redis" width="40" height="40"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
 <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png" alt="React Native" width="50" height="40"/>&nbsp;
-<img src="https://cdn.discordapp.com/attachments/1022047022854975500/1080024077248516126/w1gcDbqNKd8ShnNpj3onXc7S4Wi3g6HmxaGCPn3J7lkarfAteRjQOTwswq3RlWmZrdKeuuBrDuagDrrgaw7moA664GsO5qAOuuBrDuagDrrgaw7moA664GsO5qAOuuBrDuagDrrgaw7moA664GsO5qAOuuBrDuagDrrgaw7moA664GsO5qAOuuBrDuagDrLtTHTtzUMd6t6AAAAAElFTkSuQmCC.png" title="Entity Framework" alt="Entity Framework" width="40" height="40"/>&nbsp;
+<img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol.png" title="Entity Framework" alt="Entity Framework" width="40" height="40"/>&nbsp;
 <img src="https://miro.medium.com/max/1024/0*FiZBsN6fu2FuH7nw.png" title="Microservices" alt="Microservices" width="70" height="50"/>&nbsp;
 <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" title="Discord" alt="Discord" width="40" height="30"/>&nbsp;
-<img src="https://media.discordapp.net/attachments/1022047022854975500/1080020940613746688/1GIZ7fHIGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICvv1ARsEdZ76nbAAAAAElFTkSuQmCC.png" title="IIS" alt="IIS" width="50" height="40"/>&nbsp;
+<img src="https://logowik.com/content/uploads/images/microsoft-iis2928.jpg" title="IIS" alt="IIS" width="50" height="40"/>&nbsp;
 <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-standard.png" title="Firebase" alt="Firebase" width="80" height="30"/>&nbsp;
-<img src="https://cdn.discordapp.com/attachments/1017066078557442129/1080040450544631838/profile.png" title="Expo" alt="Expo" width="40" height="40"/>&nbsp;
+<img src="https://static.expo.dev/static/favicons/favicon-light-48x48.png" title="Expo" alt="Expo" width="40" height="40"/>&nbsp;
 <img src="https://seeklogo.com/images/F/fastlane-logo-6CA0B0B428-seeklogo.com.png" title="Fastlane" alt="Fastlane" width="40" height="40"/>&nbsp;
-<img src="https://cdn.discordapp.com/attachments/1017066078557442129/1080040681080373369/1200px-Typescript_logo_2020.png" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
 <br />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1280px-Babel_Logo.svg.png" title="Babel" alt="Babel" width="60" height="30"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
